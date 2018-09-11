@@ -1,5 +1,7 @@
+@import url('fonts.googleapis.com/css?family=Arimo:400,700');
+
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Arimo', sans-serif;
 }
 
 h1 {
