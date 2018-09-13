@@ -16,7 +16,7 @@ h1.title
 {
     border-left: 4px solid #fec4ff;
     padding-left: 20px;
-    color: #c6fffa;
+    color: #7d7cba;
     font-family: 'Oswald', sans-serif;
 
 }
@@ -31,7 +31,7 @@ h2
     border-left: 4px solid #fec4ff;
     padding-left: 20px;
     padding: 20px;
-    color: #c6fffa;
+    color: #7d7cba;
     font-family: 'Oswald', sans-serif;;
 
 }
@@ -39,7 +39,7 @@ h2
 .subtitle
 {
     padding:1px;
-    color: blue;
+    color: #7d7cba;
     border: 20px #fec4ff;
 }
 
