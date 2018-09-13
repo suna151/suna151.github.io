@@ -7,14 +7,14 @@ body {
 
 h1.title
 {
-    border: 7px dashed yellow;
+    border: 7px dashed #fec4ff;
     padding: 4px;
     font-family: 'Oswald', sans-serif;
 }
 
 .mini
 {
-    border-left: 4px solid yellow;
+    border-left: 4px solid #fec4ff;
     padding-left: 20px;
     color: blue;
     font-family: 'Oswald', sans-serif;
@@ -28,7 +28,7 @@ img
 
 h2
 {
-    border-left: 4px solid blue;
+    border-left: 4px solid #fec4ff;
     padding-left: 20px;
     padding: 20px;
     color: blue;
@@ -40,7 +40,7 @@ h2
 {
     padding:1px;
     color: blue;
-    border: 20px yellow;
+    border: 20px #fec4ff;
 }
 
 body
