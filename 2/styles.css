@@ -3,16 +3,16 @@
 
 h1.title
 {
-    border: 7px dashed red;
+    border: 7px dashed yellow;
     padding: 4px;
     font-family: 'Oswald', sans-serif;
 }
 
 .mini
 {
-    border-left: 4px solid red;
+    border-left: 4px solid yellow;
     padding-left: 20px;
-    color: red;
+    color: yellow;
     font-family: 'Oswald', sans-serif;
 
 }
@@ -24,10 +24,10 @@ img
 
 h2
 {
-    border-left: 4px solid red;
+    border-left: 4px solid blue;
     padding-left: 20px;
     padding: 20px;
-    color: red;
+    color: blue;
     font-family: 'Oswald', sans-serif;;
 
 }
@@ -35,8 +35,8 @@ h2
 .subtitle
 {
     padding:1px;
-    color: black;
-    border: 20px white;
+    color: blue;
+    border: 20px yellow;
 }
 
 body
