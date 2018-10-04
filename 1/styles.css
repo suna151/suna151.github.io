@@ -1,10 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Oswald|Roboto+Condensed:400,700');
 
-title {
-   border: 7px dashed #fec4ff;
-   padding: 4px;
-   font-family: 'Oswald', sans-serif;
+f;
 
 
 h3.day {
@@ -12,3 +9,13 @@ h3.day {
     padding: 4px;
     font-family: 'Oswald', sans-serif;
 }
+
+   h1.title {
+         font-family: 'Oswald', sans-serif;
+           padding: 4px;
+         border: 7px dashed #b5f1ff;
+   }
+   
+
+      
+      
