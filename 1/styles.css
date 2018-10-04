@@ -7,11 +7,16 @@ h3.day {
     font-family: 'Oswald', sans-serif;
 }
 
-   h1.title {
+h1.title {
          font-family: 'Oswald', sans-serif;
            padding: 4px;
          border: 7px dashed #b5f1ff;
-   }
+}
+
+h2.desc {
+        font-family: 'Oswald', sans-serif;
+}
+
    
 
       
