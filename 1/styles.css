@@ -7,3 +7,10 @@ body {
     font-size: 20px;
     border: none;
 }
+
+h1.title
+{
+    border: 7px dashed #fec4ff;
+    padding: 4px;
+    font-family: 'Oswald', sans-serif;
+}
