@@ -5,20 +5,26 @@ h3.day {
     border: 7px dashed #fec4ff;
     padding: 4px;
     font-family: 'Oswald', sans-serif;
+    font-size: 150%;
+
 }
 
 h1.title {
          font-family: 'Oswald', sans-serif;
-           padding: 4px;
+         padding: 4px;
          border: 7px dashed #b5f1ff;
 }
 
 h2.desc {
         font-family: 'Oswald', sans-serif;
+          font-size: 150%;
+
 }
 
 h4.desc2 {
         font-family: 'Oswald', sans-serif;
+        font-size: 150%;
+
 }
 img {
     display: block;
